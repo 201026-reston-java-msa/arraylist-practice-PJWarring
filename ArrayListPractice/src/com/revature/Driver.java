@@ -34,7 +34,6 @@ public class Driver {
 		
 		long regTime = t2 - t1;
 		
-		
 		t1 = System.nanoTime();
 		
 		for(int i = 0; i < AMOUNT; i++) {
